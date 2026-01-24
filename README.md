@@ -47,3 +47,25 @@ Dessa forma, não foi encontrada evidência suficiente para afirmar que a mudan�
 Repositório GitHub:  
 https://github.com/rafaelmat0s/analise-funil-teste-ab
 
+---
+
+## ▶️ Como Executar o Projeto
+
+1️⃣. Clonar o repositório:
+```bash
+git clone https://github.com/rafaelmat0s/analise-funil-teste-ab.git
+
+2️⃣ Entrar na pasta do projeto:
+cd analise-funil-teste-ab
+
+3️⃣ Criar e ativar um ambiente virtual
+python -m venv venv
+venv\Scripts\activate
+
+4️⃣ Instalar as dependências:
+pip install pandas numpy scipy matplotlib
+
+5️⃣ Executar o projeto
+Abrir o arquivo .ipynb no Jupyter Notebook ou VS Code
+Executar as células sequencialmente para reproduzir a análise do funil e o teste A/B
+
